@@ -1,0 +1,8 @@
+$ git add .
+
+fatal: failed to encode 'git-after/1.reg' from UTF-16LE-BOM to UTF-8
+
+$ git restore --worktree --recurse-submodules --pathspec-from-file="C:\Users\my\AppData\Local\Temp\tmp033wvz.tmp"
+
+error: failed to encode 'git-after/2.reg' from UTF-8 to UTF-16LE-BOM
+
